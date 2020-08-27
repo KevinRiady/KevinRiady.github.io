@@ -1,10 +1,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Kevin Riady
 
 # Your name to show in the footer
-author: Some Person
+author: Kevin Riady
 
 # --- List of links in the navigation bar --- #
 
@@ -19,7 +19,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Profile Pic Cropped.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,10 +36,10 @@ round-avatar: true
 social-network-links:
   email: "riadyk@mcmaster.ca"
   facebook: deanattali
-  github: daattali
+  github: "https://github.com/KevinRiady"
   twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/riadykevin/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
