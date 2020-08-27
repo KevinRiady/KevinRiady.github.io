@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Educational Background, Professional Experience
 published: true
 ---
 Hi. My name is Kevin Riady. I am a graduate from McMaster University with a double major in Electrical and Biomedical Engineering.
